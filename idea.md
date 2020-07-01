@@ -1,8 +1,14 @@
-##Rename in scope
+##### Rename in scope
 
 Also rename for glue(" {to_rename}")
 
-## optimize create function from code
+#### 
+Fehler in glue("{SteveAI_dir}/scraper_rvest.RData") : 
+  konnte Funktion "glue" nicht finden
+  
+ Auto check for installed packages and offer to load package to namespace and re-try line of code.
+
+#### optimize create function from code
 
 related:
 https://github.com/rstudio/rstudio/issues/5160
